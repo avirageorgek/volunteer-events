@@ -1,0 +1,9 @@
+[
+  { "id": "evt-001", "title": "Charity shop sorting morning", "location": "Colchester", "startsAt": "2026-10-10T09:00:00Z", "spacesTotal": 8, "spacesTaken": 3 },
+  { "id": "evt-002", "title": "Fun run marshalling", "location": "London", "startsAt": "2026-10-18T08:30:00Z", "spacesTotal": 40, "spacesTaken": 40 },
+  { "id": "evt-003", "title": "Bucket collection at the station", "location": "Chelmsford", "startsAt": "2026-11-02T11:00:00Z", "spacesTotal": 12, "spacesTaken": 5 },
+  { "id": "evt-004", "title": "Winter appeal envelope packing", "location": "London", "startsAt": "2026-11-20T10:00:00Z", "spacesTotal": 20, "spacesTaken": 2 },
+  { "id": "evt-005", "title": "Night walk water station", "location": "Colchester", "startsAt": "2026-12-05T17:00:00Z", "spacesTotal": 15, "spacesTaken": 9 },
+  { "id": "evt-006", "title": "Summer fete stall", "location": "Chelmsford", "startsAt": "2026-07-12T10:00:00Z", "spacesTotal": 6, "spacesTaken": 6 },
+  { "id": "evt-007", "title": "Garden party welcome desk", "location": "London", "startsAt": "2026-08-02T13:00:00Z", "spacesTotal": 10, "spacesTaken": 7 }
+]
